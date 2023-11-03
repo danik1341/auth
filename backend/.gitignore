@@ -1,0 +1,6 @@
+myenv2/
+.env
+
+**/__pycache__/
+**/migrations
+**/env/
